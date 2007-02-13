@@ -4,7 +4,7 @@
 %define		extensionsdir	%(php-config --extension-dir 2>/dev/null)
 
 Summary:	%{_modname} - phpDocumentor-style DocBlock tokenizer
-Summary(pl.UTF-8):   %{_modname} - tokenizer DocBlock podobny do phpDocumentora
+Summary(pl.UTF-8):	%{_modname} - tokenizer DocBlock podobny do phpDocumentora
 Name:		php4-pecl-%{_modname}
 Version:	0.2.0
 Release:	1
